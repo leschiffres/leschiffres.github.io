@@ -9,11 +9,17 @@
 
 <body>
 		<h2>About</h2>
-		<p>My name is Matthaios Letsios and I currently work as a Python Engineer at <a href="https://civey.com/">Civey GmbH</a> in Berlin.
+		<p>My name is Matthaios Letsios and I have 5 years of working experience in the field of Data Engineering and Data Science. In the past I have worked extensively with python, SQL and git. List of my responsibilities in my previous roles have been to:
 
-		<p> I have working experience on Data Analysis, Data Engineering, Algorithms and Statistics.</p> 
+		<ul>
+			<li>Maintain, develop and enhance airflow pipelines that were transforming data from postgres databases and BigQuery tables.</li> 
+			<li>Develop python services using technologies like gRPC, postgreSQL, clickhouse, redis and kafka.</li>
+			<li>Ensure reliable software development by appropriate unit and regression tests as long as automated linting as part of Github workflows.</li>
+			<li>Develop and maintain NLP services, based mainly on text embeddings.</li>
+			<li>Make use of anomaly detection techniques either flag unusual transactions and to identify anomalies in the operation of a machine.</li> 
+		</ul>
 
-		<p> Previously I worked as a researcher in Telecom ParisTech & Universite Pierre Marie Curie. </p>
+		<p> Previously I also worked as a researcher in Telecom ParisTech & Universite Pierre Marie Curie. </p>
 
 		<p> I'm also proud of being co-author to the following publications:</p> 
 
@@ -40,9 +46,11 @@
 			</div>
 
 			<div class='projcol'>
-				<h3>Shiny & Clustering App</h3>
-		  		<a href="https://github.com/leschiffres/shiny_clustering_app"><img src="./img/shiny-clustering.png" > </a>
-		  		<p> This is a basic <b>R-shiny</b> app that uses the <b>shiny dashboard</b> widget and applies the <b>k-means</b> clustering algorithm to a given dataset.</p>
+				<h3>Kafka DDoS Usecase</h3>
+		  		<a href="git@github.com:leschiffres/kafka-ddos-usecase.git"><img src="./img/network.jpeg" > </a>
+		  		<p> The goal of this project was to setup a simple kafka example. Let's say we are in an organization where we want to be able to track down Distributed-Denial-of-Service attacks, 
+					i.e. an overflow of requests from a pool of IPs. We decide to create a kafka topic where a service will post the received IPs in real time 
+					(kafka producer) and another service will consume those messages (kafka consumer) to be able to determine whether the system is under a DDoS attack.</p>
 			</div>
 
 		</div>
@@ -60,6 +68,24 @@
 		  		<a href="https://github.com/leschiffres/Cache_Memory_Implementation"><img src="./img/microchip.jpg" > </a>
 		  		<p> This is a project part of the Data Structures course during my bachelor studies. The goal is to build a <b>java</b> program that simulates a <b>LRU Cache Memory</b>, where all read and write operations are done as fast as possible. For this purpose, a data structure was designed that uses a <b>hashtable with separate chaining</b> and a <b>linked list</b> and achieves to do all operations in constant time. </p>
 			</div>
+		</div>
+
+		<div class='projrow'>
+
+			<div class='projcol'>
+				<h3>Shiny & Clustering App</h3>
+		  		<a href="https://github.com/leschiffres/shiny_clustering_app"><img src="./img/shiny-clustering.png" > </a>
+		  		<p> This is a basic <b>R-shiny</b> app that uses the <b>shiny dashboard</b> widget and applies the <b>k-means</b> clustering algorithm to a given dataset.</p>
+			</div>
+
+			
+			<div class='projcol'>
+				<h3></h3>
+		  		<!-- <a href=""><img src="" > </a> -->
+				<p> </p>
+			</div> 
+		
+
 		</div>
 
 
