@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: src
+  output-dir: docs
 
 website:
   title: "Matthaios Letsios"

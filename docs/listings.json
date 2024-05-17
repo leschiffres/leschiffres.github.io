@@ -6,8 +6,8 @@
   {
     "listing": "/ml_and_stats.html",
     "items": [
-      "/docs/ml_and_stats/likelihood.html",
-      "/docs/ml_and_stats/hypothesis-testing.html"
+      "/mddocs/ml_and_stats/likelihood.html",
+      "/mddocs/ml_and_stats/hypothesis-testing.html"
     ]
   }
 ]
