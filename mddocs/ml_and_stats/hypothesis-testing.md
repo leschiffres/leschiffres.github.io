@@ -1,14 +1,12 @@
 ---
-title: "Hypothesis Testing (Test)"
-description: "Hypothesis & Statistical Testing explained"
+title: "Hypothesis Testing (Draft)"
+description: "How can you prove if your friend is lying about his basketball shooting skills?"
 
 date: "05/17/2024"
 categories:
   - Statistics
   - Hypothesis Testing
 ---
-
-# Hypothesis Testing
 
 Hypothesis or statistical testing is a really useful method in statistics that allows us to investigate and measure the validity of our assumptions. 
 

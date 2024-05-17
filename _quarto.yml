@@ -8,8 +8,8 @@ website:
     left:
       - href: ml_and_stats.qmd
         text: ML and Stats
-      - href: book_reviews.qmd
-        text: Book Reviews
+      - href: book_summaries.qmd
+        text: Book Summaries
 format:
   html:
     theme: cosmo

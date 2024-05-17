@@ -1,5 +1,5 @@
 ---
-title: "Likelihood Maximization (Test)"
+title: "Likelihood Maximization (Draft)"
 description: "What is Likelihood? How can it be used? What problems can it help us solve?"
 
 date: "05/17/2024"
@@ -7,12 +7,6 @@ categories:
   - Statistics
   - Likelihood
 ---
-
-# Likelihood (test)
-
-- What is likelihood?
-- How it can be used?
-- What problems can it help us solve?
 
 Let's assume you have some data. To analyze them we would most probably try to estimate the mean or the standard deviation. However we would be able to extract even more useful information about the data if we would be able to estimate the probability density function. 
 

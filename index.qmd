@@ -1,5 +1,11 @@
 ---
-title: "Personal Blog"
+title: "Just another random Blog"
 ---
 
+Hi there 👋
 
+my name is Matthaios Letsios and I was born and raised in Athens. Since I was a kid I enjoyed doing sports, playing board games and learning languages.
+
+Unfortunately over the years I realised that I tend to forget many things. Sometimes I forget mathematics, programming or algorithmic topics.
+Other times it's books that I've read or films that I've watched. This blog is a vain effort of me trying to document different stuff that I found interesting,
+with the hope that in the future I can track them down more easily and hopefully some random person in the internet might find some usefulness in them.
