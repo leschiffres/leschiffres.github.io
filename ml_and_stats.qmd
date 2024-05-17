@@ -1,0 +1,11 @@
+---
+title: "Machine Learning and Statistics"
+listing:
+  contents: docs/ml_and_stats
+  categories: true
+  sort:
+    - "date desc"
+    - "title desc"
+---
+
+Here I add a bunch of personal notes on Machine Learning and Statistics I have collected over the years.

@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: src
+
+website:
+  title: "Matthaios Letsios"
+  navbar:
+    left:
+      - href: ml_and_stats.qmd
+        text: ML and Stats
+      - href: book_reviews.qmd
+        text: Book Reviews
+format:
+  html:
+    theme: cosmo
+    css: styles.css
