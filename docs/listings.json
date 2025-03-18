@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/book_summaries.html",
-    "items": []
-  },
-  {
     "listing": "/ml_and_stats.html",
     "items": [
       "/mddocs/ml_and_stats/likelihood.html",
